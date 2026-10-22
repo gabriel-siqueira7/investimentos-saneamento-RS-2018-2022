@@ -13,6 +13,7 @@ A escolha do quinquênio **2018–2022** foi definida propositalmente para anali
 1. **Biênio Pré-Marco (2018–2019):** Diagnóstico da alocação de recursos sob o regime regulatório anterior, marcado por contratos de programa estaduais e baixo ritmo de expansão em esgotamento.
 2. **Ano de Transição (2020):** Promulgação da **Lei Federal nº 14.026/2020** (Novo Marco Legal do Saneamento Básico), que instituiu a meta compulsória de 99% de atendimento em água e 90% em coleta e tratamento de esgoto até 31 de dezembro de 2033.
 3. **Biênio Pós-Marco (2021–2022):** Primeira fase de adaptação dos municípios e concessionárias (revisão de capacidade econômico-financeira, regionalização em blocos e preparação para privatizações/concessões, como no caso da Corsan).
+4. **Valores financeiros deflacionados pelo IPCA/IBGE (base: dezembro/2022) para assegurar comparabilidade intertemporal do esforço real de capital.
 
 # Visualizações e Resultados
 

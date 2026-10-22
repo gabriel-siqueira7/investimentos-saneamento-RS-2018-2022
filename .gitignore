@@ -1,0 +1,32 @@
+Ambientes virtuais
+
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+Cache do Python
+
+pycache/
+*.py[cod]
+*$py.class
+*.so
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+IDEs e Editores
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/

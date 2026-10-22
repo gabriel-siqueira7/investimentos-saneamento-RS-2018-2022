@@ -14,6 +14,11 @@ A escolha do quinquênio **2018–2022** foi definida propositalmente para anali
 2. **Ano de Transição (2020):** Promulgação da **Lei Federal nº 14.026/2020** (Novo Marco Legal do Saneamento Básico), que instituiu a meta compulsória de 99% de atendimento em água e 90% em coleta e tratamento de esgoto até 31 de dezembro de 2033.
 3. **Biênio Pós-Marco (2021–2022):** Primeira fase de adaptação dos municípios e concessionárias (revisão de capacidade econômico-financeira, regionalização em blocos e preparação para privatizações/concessões, como no caso da Corsan).
 
+# Visualizações e Resultados
+
+Abaixo está o painel integrado gerado a partir do processamento dos microdados:
+
+![Painel de Investimentos em Saneamento no RS](investimentos_saneamento_rs.png)
 
 # Estrutura do Painel Gráfico
 

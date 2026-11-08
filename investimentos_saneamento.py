@@ -244,7 +244,7 @@ axes[1, 0].set_title(
     pad=12,
 )
 axes[1, 0].set_xlabel("Ano")
-axes[1, 0].set_ylabel("Investimento Real por Habitante (R$ 2022/hab)")
+axes[1, 0].set_ylabel("Investimento Real por Habitante (R$/hab)")
 
 # --- Gráfico D: Dispersão População vs. Investimento (2022) ---
 df_scatter = df_recente[
@@ -273,7 +273,7 @@ axes[1, 1].legend(
     bbox_to_anchor=(1.02, 1),
     loc="upper left",
     borderaxespad=0,
-    title="R$ 2022/hab",
+    title="R$/hab",
     frameon=True,
 )
 
